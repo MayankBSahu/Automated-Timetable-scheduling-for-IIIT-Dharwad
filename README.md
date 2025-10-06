@@ -9,7 +9,7 @@ This project automates the generation of class and exam timetables for IIIT Dhar
 - Room Allocation
 - Export (CSV, PDF)
 ## Team Members (Software Sages)
-- Nikunj Srivastav (24BCS087)
-- Sudhanshu Baberwal (24BCS147)
-- Thejas Gowda U M (24BCS157)
-- Shaik Moiz (24BCS133)
+- P Maruthi (24BCS098)
+- Ritik Sinha (24BCS121)
+- Mayank Sahu (24BCS126)
+- Shivam Kishore (24BCS140)
