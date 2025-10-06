@@ -13,8 +13,8 @@ STUDENTS_DATA = [
         "courses": ["MA261", "CS262_A", "CS263_A", "CS264_A", "HSS_A"]
     },
     {
-        "id": "24BCS087",
-        "name": "Nikunj Srivastav",
+        "id": "24BCS126",
+        "name": "Mayank Sahu",
         "section": "B",
         "courses": ["MA261", "CS262_B", "CS263_B", "CS264_B", "HSS_B"]
     },
