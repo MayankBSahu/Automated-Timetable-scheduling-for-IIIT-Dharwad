@@ -12,7 +12,7 @@ This manual provides instructions for downloading, setting up, and using the sys
 
 #### Accessing the Repository
 
-- Visit the GitHub repository: `https://github.com/Darshan7455/Automated-Timetable-.git`
+- Visit the GitHub repository: 'https://github.com/MayankBSahu/Automated-Timetable-scheduling-for-IIIT-Dharwad'
 - If the repository is private, request access from the Software Psych team.
 
 #### Cloning the Repository
