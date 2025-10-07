@@ -282,7 +282,7 @@ The following features are planned for future versions:
 This user manual provides a guide to setting up and using the Time-table Automation System developed by the Software Psych team. The system automates the generation of academic timetables with conflict avoidance, proper room allocation, and staggered break times. It outputs comprehensive timetables for all departments and faculty members in Excel format. Future versions will add more features and enhance scheduling constraints. For support, contact the Software Psych development team.
 
 ### Team Members
-P Maruthi (24BCS098)
-Ritik Sinha (24BCS121)
-Mayank Sahu (24BCS126)
-Shivam Kishore (24BCS140)
+-P Maruthi (24BCS098)
+-Ritik Sinha (24BCS121)
+-Mayank Sahu (24BCS126)
+-Shivam Kishore (24BCS140)
